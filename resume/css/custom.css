@@ -1,0 +1,19 @@
+.sub-nav-item{
+ font-weight: 400;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+  font-size:0.7rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.portfolio-nav-link{
+  padding-bottom:0;
+}
+
+.sub-nav-item .nav-link{
+  padding:0;
+}
+
+.nav-item-active{
+  color:white;
+}
