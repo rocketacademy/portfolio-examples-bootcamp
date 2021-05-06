@@ -1,1 +1,3 @@
-# portfolio-examples-bootcamp
+# Rocket Academy Coding Bootcamp
+
+## Portfolio Examples
